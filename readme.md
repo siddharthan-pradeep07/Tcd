@@ -1,0 +1,1 @@
+this project is an automatic trash catching dustbin that identifies trash when being thrown with a web cam attached in a way that faces the skey it moves in the direction in which the trash is flying and also according to the speed.
